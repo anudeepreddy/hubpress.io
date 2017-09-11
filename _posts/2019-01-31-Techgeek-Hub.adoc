@@ -1,6 +1,5 @@
 = Techgeek Hub
-See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: /covers/cover.png
+:hp-image: https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title:Techgeek Hub
+
